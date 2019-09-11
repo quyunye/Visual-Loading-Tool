@@ -1,4 +1,7 @@
-<script type="text/javascript"> 
+/*
+* Copyright (c) 2019 GYqyy All rights reserved.
+* Url：https://www.gyqyy.com/
+*/
 //控制pace.js进度条加载时间上限，自动隐藏
 function hidepacejs(){ 
 var pacediv = document.getElementsByClassName("pace")[0];
@@ -9,4 +12,3 @@ var pacet1 = window.setInterval(hidepacejs,7000);
 var pacet2 = window.setInterval("hidepacejs()",7000); 
 //window.clearInterval(pacet1); 
 //window.clearInterval(pacet2); 
-</script> 
