@@ -1,7 +1,9 @@
 /*
 * Copyright (c) 2019 GYqyy All rights reserved.
-* Url：https://www.gyqyy.com/
+* Url：http://www.gyqyy.com/
+* Url: http://www.vbvbv.com/
 */
+
 //控制pace.js进度条加载时间上限，自动隐藏
 function hidepacejs(){ 
 var pacediv = document.getElementsByClassName("pace")[0];
